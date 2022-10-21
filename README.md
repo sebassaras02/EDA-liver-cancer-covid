@@ -14,7 +14,6 @@ This repository contains the exploratory data analysis of the covid's influence 
 ----
 - The data comes from the following repository: [https://github.com/sebassaras02/RPT_array_pos.git](https://www.kaggle.com/datasets/fedesoriano/covid19-effect-on-liver-cancer-prediction-dataset)
  
-----
 
 ### Exploratory Data Analysis results
 ---
